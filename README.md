@@ -2,7 +2,7 @@
 
 INSTRUCTION A SUIVRE: 
 
-bundle install
+`bundle install`
 `rails db:create`
 `rails db:migrate`
 `rails db:migrate:status`
